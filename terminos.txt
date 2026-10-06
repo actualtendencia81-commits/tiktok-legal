@@ -1,7 +1,0 @@
-Términos y Condiciones de Uso
-
-Uso de la Herramienta: News Studio es una herramienta de automatización privada y de uso interno diseñada para facilitar la publicación de contenido audiovisual en redes sociales.
-
-Responsabilidad del Contenido: El usuario asume total responsabilidad por el material (videos, audios, imágenes) publicado a través de la aplicación en YouTube y TikTok.
-
-Disponibilidad: El servicio se proporciona "tal cual". El desarrollador no se hace responsable por cambios en las API de terceros que puedan interrumpir la funcionalidad.
